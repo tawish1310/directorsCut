@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/directorsCut/static/css/main.2cce8147.chunk.css",
-    "main.js": "/directorsCut/static/js/main.f9b9ddb7.chunk.js",
-    "main.js.map": "/directorsCut/static/js/main.f9b9ddb7.chunk.js.map",
-    "runtime~main.js": "/directorsCut/static/js/runtime~main.4efb4ce4.js",
-    "runtime~main.js.map": "/directorsCut/static/js/runtime~main.4efb4ce4.js.map",
-    "static/js/2.de60ffef.chunk.js": "/directorsCut/static/js/2.de60ffef.chunk.js",
-    "static/js/2.de60ffef.chunk.js.map": "/directorsCut/static/js/2.de60ffef.chunk.js.map",
-    "index.html": "/directorsCut/index.html",
-    "precache-manifest.8fffe5c7a99051efb1650a4bf18839d0.js": "/directorsCut/precache-manifest.8fffe5c7a99051efb1650a4bf18839d0.js",
-    "service-worker.js": "/directorsCut/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/directorsCut/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/directorsCut/static/media/logo.5d5d9eef.svg"
+    "main.css": "/directorsCut/website/static/css/main.2cce8147.chunk.css",
+    "main.js": "/directorsCut/website/static/js/main.10bf5dcd.chunk.js",
+    "main.js.map": "/directorsCut/website/static/js/main.10bf5dcd.chunk.js.map",
+    "runtime~main.js": "/directorsCut/website/static/js/runtime~main.ad83667b.js",
+    "runtime~main.js.map": "/directorsCut/website/static/js/runtime~main.ad83667b.js.map",
+    "static/js/2.de60ffef.chunk.js": "/directorsCut/website/static/js/2.de60ffef.chunk.js",
+    "static/js/2.de60ffef.chunk.js.map": "/directorsCut/website/static/js/2.de60ffef.chunk.js.map",
+    "index.html": "/directorsCut/website/index.html",
+    "precache-manifest.125bed92d748ba50d7073ac006de5067.js": "/directorsCut/website/precache-manifest.125bed92d748ba50d7073ac006de5067.js",
+    "service-worker.js": "/directorsCut/website/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/directorsCut/website/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/directorsCut/website/static/media/logo.5d5d9eef.svg"
   }
 }
