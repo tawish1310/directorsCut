@@ -2,8 +2,10 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tawish1310.github.io/directorsCut/website",
   "dependencies": {
     "gh-pages": "^2.1.1",
+    "office-ui-fabric-react": "^7.33.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
@@ -12,7 +14,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
